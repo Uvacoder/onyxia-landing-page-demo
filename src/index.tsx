@@ -1,17 +1,45 @@
-import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import {Gitlanding} from "gitlanding";
+import headerImg from "./assets/header/header-img-example.png";
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <Gitlanding header={{
+    "image": {
+      "url": headerImg,
+  },
+  "titleMd": "Espace documentaire pour la statistique publique",
+  "subTitleMd": `
+Ici je trouve et je partage des ressources 
+
+sur le traitement statistique et la datascience.
+`,
+  "topBarProps": {
+      "title": {
+          "type": "markdown",
+          "markdown": `Espace documentaire du SSP Cloud`
+      },
+      "menuItems": [
+          {
+              "name": "Documentation",
+              "url": ""
+          },
+          {
+              "name": "Le datalab",
+              "url": ""
+          },
+          {
+              "name": "Contribuer",
+              "url": ""
+          },
+          {
+              "name": "Actualités et projets",
+              "url": ""
+          }
+
+      ]
+  }
+
+  }}/>
+ ,
   document.getElementById('root')
 );
-
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
