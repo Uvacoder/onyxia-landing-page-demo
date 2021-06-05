@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/onyxia-landing-page-demo/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/onyxia-landing-page-demo/static/js/main.02746139.chunk.js",
+    "main.js.map": "/onyxia-landing-page-demo/static/js/main.02746139.chunk.js.map",
+    "runtime-main.js": "/onyxia-landing-page-demo/static/js/runtime-main.d72c61c5.js",
+    "runtime-main.js.map": "/onyxia-landing-page-demo/static/js/runtime-main.d72c61c5.js.map",
+    "static/js/2.d08b90fa.chunk.js": "/onyxia-landing-page-demo/static/js/2.d08b90fa.chunk.js",
+    "static/js/2.d08b90fa.chunk.js.map": "/onyxia-landing-page-demo/static/js/2.d08b90fa.chunk.js.map",
+    "static/js/3.c0f9006b.chunk.js": "/onyxia-landing-page-demo/static/js/3.c0f9006b.chunk.js",
+    "static/js/3.c0f9006b.chunk.js.map": "/onyxia-landing-page-demo/static/js/3.c0f9006b.chunk.js.map",
+    "index.html": "/onyxia-landing-page-demo/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/onyxia-landing-page-demo/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d08b90fa.chunk.js.LICENSE.txt": "/onyxia-landing-page-demo/static/js/2.d08b90fa.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/onyxia-landing-page-demo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d72c61c5.js",
+    "static/js/2.d08b90fa.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.02746139.chunk.js"
+  ]
+}
