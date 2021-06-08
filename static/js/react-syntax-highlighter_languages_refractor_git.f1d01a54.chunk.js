@@ -1,2 +1,0 @@
-(this["webpackJsonponyxia-landing-page-demo"]=this["webpackJsonponyxia-landing-page-demo"]||[]).push([[45],{723:function(e,i,m){"use strict";function n(e){e.languages.git={comment:/^#.*/m,deleted:/^[-\u2013].*/m,inserted:/^\+.*/m,string:/("|')(?:\\.|(?!\1)[^\\\r\n])*\1/m,command:{pattern:/^.*\$ git .*$/m,inside:{parameter:/\s--?\w+/m}},coord:/^@@.*@@$/m,commit_sha1:/^commit \w{40}$/m}}e.exports=n,n.displayName="git",n.aliases=[]}}]);
-//# sourceMappingURL=react-syntax-highlighter_languages_refractor_git.f1d01a54.chunk.js.map
