@@ -1544,7 +1544,7 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
-"@material-ui/core@^4.11.3":
+"@material-ui/core@^4.11.4":
   version "4.11.4"
   resolved "https://registry.yarnpkg.com/@material-ui/core/-/core-4.11.4.tgz#4fb9fe5dec5dcf780b687e3a40cff78b2b9640a4"
   integrity sha512-oqb+lJ2Dl9HXI9orc6/aN8ZIAMkeThufA5iZELf2LQeBn2NtjVilF5D2w7e9RpntAzDb4jK5DsVhkfOvFY/8fg==
@@ -5675,13 +5675,12 @@ getpass@^0.1.1:
   dependencies:
     assert-plus "^1.0.0"
 
-gitlanding@^0.0.18:
-  version "0.0.18"
-  resolved "https://registry.yarnpkg.com/gitlanding/-/gitlanding-0.0.18.tgz#fa5841da36892226de689d73cecc69ccc94012e1"
-  integrity sha512-a8wXSei88osYRY2fKrL9pAhMcJZ6PI+SmdqJj0Finaek0EpfWuqXM8mrISVGE3MfMpRCQwZTK7X3xjd5vw4wOg==
+gitlanding@^0.0.20:
+  version "0.0.20"
+  resolved "https://registry.yarnpkg.com/gitlanding/-/gitlanding-0.0.20.tgz#7f02e6248f5c995e4cfc4f4fe3be4a702ab70921"
+  integrity sha512-KeStikUOA4SvtOActcUSKNmg+Iq+nLq8+A7A1I3z751S4QXvdugKbo/ats7pnUeX2ZGGNrCq1EGe05kNv+UwAA==
   dependencies:
-    "@material-ui/core" "^4.11.3"
-    "@material-ui/icons" "^4.11.2"
+    "@material-ui/core" "^4.11.4"
     embla-carousel "^4.1.5"
     onyxia-ui "^0.3.0"
     powerhooks "^0.0.37"
