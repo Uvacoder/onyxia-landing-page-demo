@@ -307,20 +307,20 @@
     "runtime-main.js": "/onyxia-landing-page-demo/static/js/runtime-main.3f778f0e.js",
     "runtime-main.js.map": "/onyxia-landing-page-demo/static/js/runtime-main.3f778f0e.js.map",
     "static/css/153.0099758a.chunk.css": "/onyxia-landing-page-demo/static/css/153.0099758a.chunk.css",
-    "static/js/153.7b52e106.chunk.js": "/onyxia-landing-page-demo/static/js/153.7b52e106.chunk.js",
-    "static/js/153.7b52e106.chunk.js.map": "/onyxia-landing-page-demo/static/js/153.7b52e106.chunk.js.map",
+    "static/js/153.aad09ee8.chunk.js": "/onyxia-landing-page-demo/static/js/153.aad09ee8.chunk.js",
+    "static/js/153.aad09ee8.chunk.js.map": "/onyxia-landing-page-demo/static/js/153.aad09ee8.chunk.js.map",
     "static/js/154.1864ae75.chunk.js": "/onyxia-landing-page-demo/static/js/154.1864ae75.chunk.js",
     "static/js/154.1864ae75.chunk.js.map": "/onyxia-landing-page-demo/static/js/154.1864ae75.chunk.js.map",
     "index.html": "/onyxia-landing-page-demo/index.html",
     "static/css/153.0099758a.chunk.css.map": "/onyxia-landing-page-demo/static/css/153.0099758a.chunk.css.map",
-    "static/js/153.7b52e106.chunk.js.LICENSE.txt": "/onyxia-landing-page-demo/static/js/153.7b52e106.chunk.js.LICENSE.txt",
+    "static/js/153.aad09ee8.chunk.js.LICENSE.txt": "/onyxia-landing-page-demo/static/js/153.aad09ee8.chunk.js.LICENSE.txt",
     "static/media/downArrow.svg": "/onyxia-landing-page-demo/static/media/downArrow.23758f40.svg",
     "static/media/work-sans.css": "/onyxia-landing-page-demo/static/media/worksans-semibold-webfont.3d45de00.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.3f778f0e.js",
     "static/css/153.0099758a.chunk.css",
-    "static/js/153.7b52e106.chunk.js",
+    "static/js/153.aad09ee8.chunk.js",
     "static/js/main.a5c5bf05.chunk.js"
   ]
 }
