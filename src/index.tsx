@@ -1,8 +1,10 @@
 import ReactDOM from 'react-dom';
 import {Gitlanding} from "gitlanding";
-import headerImg from "./assets/header/header-img-example.png";
+import headerImg from "./assets/header/header.png";
+import section1 from "./assets/section/section1.png";
+import section2 from "./assets/section/section2.png";
+import thumbnail1 from "./assets/thumbnail-section/thumbnail1.png";
 import type {GitlandingProps} from "gitlanding";
-
 
 export const props: GitlandingProps = {
     "header": {
@@ -65,39 +67,42 @@ Proin sed tellus eu turpis porttitor feugiat ac quis est. Nullam metus tellus, g
                 "illustration": {
                     "type": "image",
                     "imageProps": {
-                        "url": headerImg
+                        "url": section1
                     }
                 },
-                "thumbNails": {
-                    "thumbNails": [
-                        {
-                            "title": "Documentation et formations"
-                        },
-                        {
-                            "title": "Découvrir le datalab"
-                        },
-                        {
-                            "title": "Actualités et projets"
-                        }
-                    ]
-                }
+                "thumbNails": [
+                    {
+                        "title": "Documentation et formations",
+                        "type": "small",
+                    },
+                    {
+                        "title": "Découvrir le datalab",
+                        "type": "small"
+                    },
+                    {
+                        "title": "Actualités et projets",
+                        "type": "small"
+                    }
+                ]
             },
             {
                 "title": "La collaboration au sein de la communauté",
-                "thumbNails": {
-                    "thumbNails": [
-                        {
-                            "title": "Le gitlab du datalab"
-                        },
-                        {
-                            "title": "Le salon d’échange Tchap"
-                        },
-                        {
-                            "title": "Les outils collaboratifs MIM-Libre"
-                        }
-                    ]
+                "thumbNails": [
+                    {
+                        "type": "small",
+                        "title": "Le gitlab du datalab"
 
-                },
+                    },
+                    {
+                        "title": "Le salon d’échange Tchap",
+                        "type": "small"
+                    },
+                    {
+                        "title": "Les outils collaboratifs MIM-Libre",
+                        "type": "small"
+                    }
+                ],
+
                 "article": {
                     "title": "Comment contribuer à la communauté ?",
                     "paragraphMd": `
@@ -114,13 +119,81 @@ Proin sed tellus eu turpis porttitor feugiat ac quis est. Nullam metus tellus, g
                 "illustration": {
                     "type": "image",
                     "imageProps": {
-                        "url": headerImg
+                        "url": section2
                     }
                 }
             }
         ]
+    },
+
+    "thumbNailSection": {
+        "title": "Les dernières actualités et projets",
+        "thumbNails": [
+            {
+                "type": "large",
+                "footer": {
+                    "title": "Datavisualisation: Mouvements de population autour du confinement de mars 2020",
+                    "subTitle": "Suarez Castillo Milena" 
+                },
+                "background": {
+                    "type": "image",
+                    "url": thumbnail1
+
+                },
+                "button": {
+                    "href": "",
+                    "title": "Projet",
+                    "backgroundColor": "#D5F2E1",
+                    "color": "black"
+                }
+            },
+
+            {
+                "type": "large",
+                "footer": {
+                    "title": "Atelier: Initiation à Kubernetes, CI et création d’images",
+                    "subTitle": "Olivier Lewitt"
+                },
+                "button": {
+                    "href": "",
+                    "title": "Actualités",
+                    "backgroundColor": "#E8DAF2",
+                    "color": "black"
+                }
+
+            },
+            {
+                "type": "large",
+                "footer": {
+                    "title": "ML Flow: Prédire quelles sont les caractéristiques des Pokémons légendaire",
+                    "subTitle": "Liu Pengfei"
+                },
+                "button": {
+                    "href": "",
+                    "title": "Projet",
+                    "color": "black",
+                    "backgroundColor": "#D5F2E1",
+                }
+            },
+            {
+                "type": "large",
+                "footer": {
+                    "title": "Atelier: Initiation à Kubernetes, CI et création d’images",
+                    "subTitle": "Olivier Lewitt"
+                },
+                "button": {
+                    "href": "",
+                    "title": "Actualités",
+                    "backgroundColor": "#E8DAF2",
+                    "color": "black"
+                }
+
+            }
+        ]
     }
 }
+
+
 
 
 ReactDOM.render(
