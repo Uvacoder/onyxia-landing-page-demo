@@ -5675,14 +5675,14 @@ getpass@^0.1.1:
   dependencies:
     assert-plus "^1.0.0"
 
-gitlanding@^0.0.24:
-  version "0.0.24"
-  resolved "https://registry.yarnpkg.com/gitlanding/-/gitlanding-0.0.24.tgz#c6c2f06b7bb27dda0cd47f18f58951fc12bf0e84"
-  integrity sha512-1qYApa09QnLj5YNBfaBLHQi+PyVpj5b7LHffGmiuL/2jqdtNzRj2y+sDmIIFOJOMh4VOvF7SY/G5SX48YA/tXQ==
+gitlanding@^0.0.27:
+  version "0.0.27"
+  resolved "https://registry.yarnpkg.com/gitlanding/-/gitlanding-0.0.27.tgz#db67667982645abe9635bb6e5d39f3e4567d3d43"
+  integrity sha512-JK7X++j97J8QzQdRz+/lWCzRV+J1/Pm9BthAfm6QDQUE4Ni5Ujtzpz44G4BPGlC6NLHK+xFbzUwN5Qc9JqDfDA==
   dependencies:
     "@material-ui/core" "^4.11.4"
     embla-carousel "^4.1.5"
-    onyxia-ui "^0.3.0"
+    onyxia-ui "^0.3.12"
     powerhooks "^0.0.37"
     react-code-blocks "^0.0.8"
     react-markdown "^5.0.3"
@@ -8371,16 +8371,16 @@ onetime@^5.1.0:
   dependencies:
     mimic-fn "^2.1.0"
 
-onyxia-ui@^0.3.0:
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/onyxia-ui/-/onyxia-ui-0.3.0.tgz#6888ee5c1323483cc28fdf1c8c00973aaa5be2a7"
-  integrity sha512-VNuU934OpZUVlUUHOJS0TFG9eWoNEfySlvq6zyuIrVhc2oEMeFUIJu9dRi4LI/kiTUT8DPkEApS6kI8ua4/MKw==
+onyxia-ui@^0.3.12:
+  version "0.3.13"
+  resolved "https://registry.yarnpkg.com/onyxia-ui/-/onyxia-ui-0.3.13.tgz#03a4f6200f4fcb26b40522e5fdb612a41e302ade"
+  integrity sha512-kRyuRCdxxKTOKf3N4zPEis5+QVAnxWf3YAPd0JrZmR3pG9hl468d8zz/irrZmXxV8TzW1eJPSUFBOvdtZ6eEjw==
   dependencies:
     "@material-ui/icons" "^4.11.2"
     color "3.1.3"
     evt beta
     memoizee "^0.4.15"
-    powerhooks "^0.0.42"
+    powerhooks "^0.1.0"
     ts-toolbelt "^9.6.0"
     tsafe "^0.4.0"
   optionalDependencies:
@@ -9486,10 +9486,10 @@ powerhooks@^0.0.37:
     memoizee "^0.4.15"
     resize-observer-polyfill "^1.5.1"
 
-powerhooks@^0.0.42:
-  version "0.0.42"
-  resolved "https://registry.yarnpkg.com/powerhooks/-/powerhooks-0.0.42.tgz#767a928236119959bcd20d28c14250b60503dab3"
-  integrity sha512-M9aL5kOPXVJckOm03X9ZbIGd3SYXkBGONhqWuA5BKFWwAHPCyVuRX6532rw1cL0AxMWEKULVmDiV4hRPy/T0lg==
+powerhooks@^0.1.0:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/powerhooks/-/powerhooks-0.1.1.tgz#5ce825d595673a5c6f86b227e0fcaca1972bd90d"
+  integrity sha512-I8bzTU/uRUyeTkeyAR54g862pwMcAX/ErN3xqdUt7n28riqv93N0Cm900018bNRKBq8ovnb+VxOQ+MXJwhkUOA==
   dependencies:
     evt "2.0.0-beta.15"
     memoizee "^0.4.15"

@@ -5,18 +5,15 @@ import section1 from "./assets/section/section1.png";
 import section2 from "./assets/section/section2.png";
 import thumbnail1 from "./assets/thumbnail-section/thumbnail1.png";
 import type {GitlandingProps} from "gitlanding";
-
 export const props: GitlandingProps = {
     "header": {
 
         "image": {
             "url": headerImg,
         },
-        "titleMd": "Espace documentaire pour la statistique publique",
+        "titleMd": "Espace communautaire pour la statistique publique.",
         "subTitleMd": `
-Ici je trouve et je partage des ressources 
-
-sur le traitement statistique et la datascience.
+Ici je trouve et je partage des ressources sur le traitement statistique et la datascience avec la communauté du SSP Cloud.
 `,
         "topBarProps": {
             "title": {
@@ -43,7 +40,7 @@ sur le traitement statistique et la datascience.
 
             ]
         },
-        "linkToNextSection": {
+        "linkToMainSection": {
             "title": "Ce dont vous avez besoin :"
         },
     },
@@ -70,38 +67,43 @@ Proin sed tellus eu turpis porttitor feugiat ac quis est. Nullam metus tellus, g
                         "url": section1
                     }
                 },
-                "thumbNails": [
-                    {
-                        "title": "Documentation et formations",
-                        "type": "small",
-                    },
-                    {
-                        "title": "Découvrir le datalab",
-                        "type": "small"
-                    },
-                    {
-                        "title": "Actualités et projets",
-                        "type": "small"
-                    }
-                ]
+                "thumbNailSection": {
+                    "thumbNails": [
+                        {
+                            "title": "Documentation et formations",
+                            "type": "small",
+                        },
+                        {
+                            "title": "Découvrir le datalab",
+                            "type": "small"
+                        },
+                        {
+                            "title": "Actualités et projets",
+                            "type": "small"
+                        }
+                    ]
+                }
             },
             {
                 "title": "La collaboration au sein de la communauté",
-                "thumbNails": [
-                    {
-                        "type": "small",
-                        "title": "Le gitlab du datalab"
+                "thumbNailSection": {
+                    "breakpointForColumnDisplay": 1280,
+                    "thumbNails": [
+                        {
+                            "type": "small",
+                            "title": "Le gitlab du datalab",
 
-                    },
-                    {
-                        "title": "Le salon d’échange Tchap",
-                        "type": "small"
-                    },
-                    {
-                        "title": "Les outils collaboratifs MIM-Libre",
-                        "type": "small"
-                    }
-                ],
+                        },
+                        {
+                            "title": "Le salon d’échange Tchap",
+                            "type": "small"
+                        },
+                        {
+                            "title": "Les outils collaboratifs MIM-Libre",
+                            "type": "small"
+                        }
+                    ],
+                },
 
                 "article": {
                     "title": "Comment contribuer à la communauté ?",
