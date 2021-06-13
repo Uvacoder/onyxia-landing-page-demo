@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/onyxia-landing-page-demo/static/js/main.e8b96836.chunk.js",
-    "main.js.map": "/onyxia-landing-page-demo/static/js/main.e8b96836.chunk.js.map",
+    "main.js": "/onyxia-landing-page-demo/static/js/main.228ed4cb.chunk.js",
+    "main.js.map": "/onyxia-landing-page-demo/static/js/main.228ed4cb.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_abap.js": "/onyxia-landing-page-demo/static/js/react-syntax-highlighter_languages_refractor_abap.cc18972b.chunk.js",
     "react-syntax-highlighter_languages_refractor_abap.js.map": "/onyxia-landing-page-demo/static/js/react-syntax-highlighter_languages_refractor_abap.cc18972b.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_actionscript.js": "/onyxia-landing-page-demo/static/js/react-syntax-highlighter_languages_refractor_actionscript.586e241c.chunk.js",
@@ -304,16 +304,16 @@
     "react-syntax-highlighter_languages_refractor_xquery.js.map": "/onyxia-landing-page-demo/static/js/react-syntax-highlighter_languages_refractor_xquery.7a0bf084.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_yaml.js": "/onyxia-landing-page-demo/static/js/react-syntax-highlighter_languages_refractor_yaml.8b0919eb.chunk.js",
     "react-syntax-highlighter_languages_refractor_yaml.js.map": "/onyxia-landing-page-demo/static/js/react-syntax-highlighter_languages_refractor_yaml.8b0919eb.chunk.js.map",
-    "runtime-main.js": "/onyxia-landing-page-demo/static/js/runtime-main.12f87eae.js",
-    "runtime-main.js.map": "/onyxia-landing-page-demo/static/js/runtime-main.12f87eae.js.map",
+    "runtime-main.js": "/onyxia-landing-page-demo/static/js/runtime-main.45ec6b60.js",
+    "runtime-main.js.map": "/onyxia-landing-page-demo/static/js/runtime-main.45ec6b60.js.map",
     "static/css/153.0099758a.chunk.css": "/onyxia-landing-page-demo/static/css/153.0099758a.chunk.css",
-    "static/js/153.c471d2d9.chunk.js": "/onyxia-landing-page-demo/static/js/153.c471d2d9.chunk.js",
-    "static/js/153.c471d2d9.chunk.js.map": "/onyxia-landing-page-demo/static/js/153.c471d2d9.chunk.js.map",
-    "static/js/154.62d21e6e.chunk.js": "/onyxia-landing-page-demo/static/js/154.62d21e6e.chunk.js",
-    "static/js/154.62d21e6e.chunk.js.map": "/onyxia-landing-page-demo/static/js/154.62d21e6e.chunk.js.map",
+    "static/js/153.96d37ac1.chunk.js": "/onyxia-landing-page-demo/static/js/153.96d37ac1.chunk.js",
+    "static/js/153.96d37ac1.chunk.js.map": "/onyxia-landing-page-demo/static/js/153.96d37ac1.chunk.js.map",
+    "static/js/154.e19cfcce.chunk.js": "/onyxia-landing-page-demo/static/js/154.e19cfcce.chunk.js",
+    "static/js/154.e19cfcce.chunk.js.map": "/onyxia-landing-page-demo/static/js/154.e19cfcce.chunk.js.map",
     "index.html": "/onyxia-landing-page-demo/index.html",
     "static/css/153.0099758a.chunk.css.map": "/onyxia-landing-page-demo/static/css/153.0099758a.chunk.css.map",
-    "static/js/153.c471d2d9.chunk.js.LICENSE.txt": "/onyxia-landing-page-demo/static/js/153.c471d2d9.chunk.js.LICENSE.txt",
+    "static/js/153.96d37ac1.chunk.js.LICENSE.txt": "/onyxia-landing-page-demo/static/js/153.96d37ac1.chunk.js.LICENSE.txt",
     "static/media/downArrow.svg": "/onyxia-landing-page-demo/static/media/downArrow.23758f40.svg",
     "static/media/header.19a7ec01.png": "/onyxia-landing-page-demo/static/media/header.19a7ec01.png",
     "static/media/section1.d061190a.png": "/onyxia-landing-page-demo/static/media/section1.d061190a.png",
@@ -322,9 +322,9 @@
     "static/media/work-sans.css": "/onyxia-landing-page-demo/static/media/worksans-semibold-webfont.3d45de00.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.12f87eae.js",
+    "static/js/runtime-main.45ec6b60.js",
     "static/css/153.0099758a.chunk.css",
-    "static/js/153.c471d2d9.chunk.js",
-    "static/js/main.e8b96836.chunk.js"
+    "static/js/153.96d37ac1.chunk.js",
+    "static/js/main.228ed4cb.chunk.js"
   ]
 }
